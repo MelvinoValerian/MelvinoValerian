@@ -3,7 +3,6 @@ Hi there 👋
 
 
 👋 Halo, saya Melvino Rizky Valerian
-
 💻 Saya seorang pelajar di SMK Telkom Malang  
 📚 Selalu belajar teknologi baru  
 🌱 Saat ini fokus pada Laravel 
